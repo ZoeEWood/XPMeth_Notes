@@ -83,5 +83,13 @@ Brainstorming (!!!!!!)
 critical edition: will simply be available, to anyone (after 5 years) 
 what kind of uses to you envision? 
 	-conservators? 
-	-
-  
+
+
+critical edition: will simply be available, to anyone (after 5 years) 
+what kind of uses to you envision? 
+	-conservators? 
+	-there could be a cs class happening at the same time COMPUTING IN CONTEXT and nobody likes to solve 	problems retrospectively 
+	-Camille (?) Brothers 
+	-this isn’t a computer science problem, and this idea of collaboration isn’t isolated to cs 
+	-we’re not looking for an algorithm. collaboration of design, humanities
+	-art historians — trying to collaborate on images.  
