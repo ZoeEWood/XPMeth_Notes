@@ -76,5 +76,12 @@ The Making and Knowing Project
 
 Brainstorming (!!!!!!)
 -obvious ideas: 
-	Lets just think of text: 
-		-version control (github)  
+	-version control (github)(for text)
+	-wikimedia
+	-the internet archive: some big storage
+
+critical edition: will simply be available, to anyone (after 5 years) 
+what kind of uses to you envision? 
+	-conservators? 
+	-
+  
