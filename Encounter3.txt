@@ -1,0 +1,80 @@
+-“rapidly prototyping speculative ideas”
+-this is the first event — we have invited Professor Smith
+	-we are calling these events encounters
+	-we will meet, talk, and speculate as a group
+	-these will then take physical shape in one way or another
+
+Pamela Smith
+The Making and Knowing Project 
+-first i will contest dennis’s opposition between craft and scientific laboratory. 
+-^ that’s only how scientists wish it happens
+-“chemical heritage foundation”
+-my work has focus on craft throughout my whole career
+-Bernard Plissy — you can’t just do this in writing
+	-“as a historian, this is a problem for me.”
+	-“I don’t have access to that skill, and to those actual making abilities.” 
+	-“that is my paradox”
+-manuscripts and texts on making 
+	-“a flood of how to literature”
+	-the book of secrets — technical recipes
+	-flood of technical literature that appears from 1400 on: WHY, why did it appear, why was there an audience for 	it? 
+	-eventually incorporated into encyclopedia projects of 19th (?) century
+-problem of reproducibility in science
+-JoVE = attempt to respond to that problem of reproducibility: youtube videos that show the process of those experiments
+	-rapidly growing
+-how to get at practical knowledge as a historian — how do you actually GET it
+-in order to get at this knowledge, i realized i needed to have an apprenticeship in medieval techniques
+	-took a bunch of apprenticeships
+		-oil painting, metalworking, bread making
+	-Victoria & Albert museum: first founded as a place where artisans and  industrialists would get together and 	record and archive all kinds of processes that were valuable to the nation
+		-porcelain, for example
+	-the same strangeness that inhabits art history and history of science — almost nobody is trained in those 	materials today. (it’s changing…but, anyway.)
+	-West Dean college of arts: making courses
+-“the chemistry of isaac newton project”
+	-what historians thought was metaphorical or something was actually just material” 
+-example of life casting: “how to cast a lizard” 
+	-found multiple life casting instructions — did experiments to try to reconstruct these instructions
+	-“reverse engineering” from words to experience
+-what kind of historical evidence is available to historians of material life? not just the materials in terms of their makeup but what did they mean to people
+	-you are dealing with an emergent phenomenon, and yet you are going to say historical things about it
+	-generally, you never get the same thing — and how do you get evidence of that? actually an archival 	document is an emergent phenomenon as well. 
+
+(1) French Paleography Workshop 
+	-collectively produced critical edition of this manuscript, annotated with tons of information 
+	-worked in pairs on transcription and translation
+	-collective workspace was google drive
+	-within each folder is high definition scan, diplomatic transcription (lightly encoded), normal transcription, 	english translation. we decided to keep it very, very simple.
+	-permissions access is a huge problem for us, and shock when you find something new in your google drive 	when
+	-retroactive correction - but ad hoc is really the only way to move forward on such a big project 
+(2) Laboratory Seminar
+	-history course in which the research is done in a lab
+	-had to show them youtube videos on sand casting
+	-first we did skill building: historical culinary recipes 
+	-the way we’re recording everything is by field notes (NOT blog)
+	-person who came in to talk about lab notes said “maybe don’t include information about how you had to go get 	rose hips in queens”)
+	-HOW do we organize all this information so that it will be available five years hence
+		-we change this wiki almost every week
+	-a lot of recipe genealogies as well — where did these recipes come from? 
+(3) Oversight Component
+	-bring all these people together, assign them different annotations, gives us an expert oversight over the 	annotations. 
+	-the students are producing original research every day in class.
+	-everyone is very excited these days
+	-layers— manuscript, transcription, translation etc. 
+	-we will be able to embed images in our reconstructions too 
+	-how to catch a lizard tutorial — longterm continuity of these techniques
+	-brood nest of snakes — intersection of engagement with real world with making. how do you catch a lizard and 	keep it so that it won’t die so you can kill it for your life cast? 
+
+-coordinating access to 90+ collaborators on google drive (can only go to google or make own platform)
+-organizing wikispace: tagging, the place where we store all our photos is in flickr photo stream b/c took way too long to upload anything to wikispace (and how do you organize that rationally)
+-And how do you make all these speak to each other 
+-embedding the frames of the google drive to the wiki — can link to google drive from wiki b/c at the moment we are cutting and pasting things from googledrive to wiki 
+-we have to have a way to link, directly ^^.
+-linking these three archives in whatever way possible so they speak to each other so we can at least search them for information 
+-next semester, we are scaling up to collaborate in real time to with other courses at other institutions. 
+	in the netherlands germany ireland other places in us 
+-we want to have virtual conferencing 
+
+Brainstorming (!!!!!!)
+-obvious ideas: 
+	Lets just think of text: 
+		-version control (github)  
