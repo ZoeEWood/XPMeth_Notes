@@ -12,4 +12,10 @@
 -Digital Citizen: to be done by Prof. Tenen's course 'Code and Poetry'
 -HDPP: 
 	-confirmed for December 12th for meeting with Directory of Tech Ventures	-he will lead 3-hour workshop on how intellectual property works
-	
+-Folk Tech: interviewing people (such as people who bike using plastic bags to keep their hands warm) about how they learned their "hacks" 
+	-informal transmission of knowledge	
+-Bro Pages: think about code comments that have particular ideas of masculinity in them that are normative
+	-take one big black of code and analyze the comments 
+	-next step is fascism
+	-(maybe use Git Hub archive)
+
