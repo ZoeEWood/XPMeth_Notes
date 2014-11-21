@@ -1,0 +1,31 @@
+Tara
+-hashtags as digital artifacts -- figure out where culture is happening
+-pay two writers when can, opinion pieces on hashtags that are trending
+-"the reason why I'm here is"
+	-the site has been hacked 5 times
+	-still haven't posted since last hack
+	-tracing malicious protocol
+	-very concerned about security of site, especially because site is growing and the contributors need to be protected and compensated fairly
+	-need to make sure that the site itself is secure
+-her regular workflow, tech support resources she utilizes
+	-she is the tech support
+	-writers write something, send it to her, she curates and posts. 
+	-Blue Host helps, but charges her exorbitantly 
+	-also want it to be preserved in the longterm
+-we're suggested static site generation
+	-what's the difference between static and dynamic? 
+	-Blue Host is a shared server. you can imagine it as one big computer. each website is a tiny little space on that computer, and that what you're paying for and thus long term techincal support is terrible
+	-within that big box you have a littler server
+	-depending on what you specify, it dynamically recompiles your site to incorporate new content/style changes.
+	-dynamic websites are cheap and flexible — those are their upsides. 
+	-BUT if people can figure out the name of your database you’re not longer safe, your dynamic website can now equally be manipulated
+	-you have multiple vectors of attack — you can also have a man in the middle attack
+-alternative that emerged is static website creation, you generate html pages, and whatever its there you put on a host. 
+-we recommend github pages — it’s the largest developing community out there
+-they invite hackers to attack them, and provide a fairly large bounty if you’re able to penetrate their security
+	-by using github pages, you are safe from a lot of those vectors. largest security 	breach possibility is though login/password 
+	-downside is that she loses the expertise she has in wordpress
+	-there’s nobody to call, BUT there’s a huge amount of support in the community
+	-luckily, you can actually do everything through github’s interface
+-NOW, for today, we’re going to create something very similar to hashtag feminism’s current website and, when Tara is comfortable with that, we’ll move to the whole thing to gh pages
+ 
