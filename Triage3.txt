@@ -1,0 +1,12 @@
+-Pamela Smith: came up with a CSS framework for laying out medieval recipes. we'll have more encounters like this. 
+-recap: 
+	-originally we were going to take the event and create a new project on top of the event 
+	-now you can just add a category i nour research cluster, which migrates the event to the page
+-Anna Hyatt is here from Big Round Table
+	-Print's not dead
+	-Story support: a bit coin tip jar. no one else in journalism is doing 		this right now -- this could be kind of fun. 
+		-We've been in touch with one of the major digital currency acti		vists, and there will be, next semester, a workshop on how bitco		in works and we'll try to implement a bitcoin tip jar for after 		the workshop 
+		-frictionless relationship between reader and author
+-Tiny ISBN
+	-Prof. Tenen is in conversation with Random House and Penguin to get the	m here on January 23rd. 
+-Digital Citizen: to be done by Prof. Tenen's course 'Code and Poetry'
